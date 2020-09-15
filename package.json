@@ -1,0 +1,22 @@
+{
+  "name": "web-front-ruby-guts-2020",
+  "version": "1.0.0",
+  "description": "imersao ruby",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeVmachado/web-front-ruby-guts-2020.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeVmachado/web-front-ruby-guts-2020/issues"
+  },
+  "homepage": "https://github.com/felipeVmachado/web-front-ruby-guts-2020#readme"
+}
